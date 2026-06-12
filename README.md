@@ -71,10 +71,3 @@ airbnb-price-prediction/
 ├── requirements.txt       # Project dependencies
 └── README.md
 ```
-
----
-
-## 👤 Author
-
-Pedro — Software Engineering Student  
-Feel free to connect or reach out via [GitHub](https://github.com/).
